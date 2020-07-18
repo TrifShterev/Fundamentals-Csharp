@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Friendlist Maintenance/1.0.0": {
+        "runtime": {
+          "Friendlist Maintenance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Friendlist Maintenance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.exe
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.dll
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\bin\Debug\netcoreapp3.1\Experience Gaining.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.dll
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Experience Gaining\obj\Debug\netcoreapp3.1\Experience Gaining.genruntimeconfig.cache

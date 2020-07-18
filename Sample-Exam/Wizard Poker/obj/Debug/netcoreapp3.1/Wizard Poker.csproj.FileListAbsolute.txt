@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.exe
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.dll
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\bin\Debug\netcoreapp3.1\Wizard Poker.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.dll
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Wizard Poker\obj\Debug\netcoreapp3.1\Wizard Poker.genruntimeconfig.cache

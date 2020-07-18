@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.exe
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.deps.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\bin\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\tshte\source\repos\Strings and Text Processing\Strings and Text Processing\obj\Debug\netcoreapp3.1\Reverse Strings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.exe
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.dll
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\bin\Debug\netcoreapp3.1\Tanks Colector.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.dll
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Tanks Colector\obj\Debug\netcoreapp3.1\Tanks Colector.genruntimeconfig.cache

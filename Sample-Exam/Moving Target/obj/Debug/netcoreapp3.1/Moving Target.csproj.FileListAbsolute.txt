@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.exe
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\bin\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.dll
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Moving Target\obj\Debug\netcoreapp3.1\Moving Target.genruntimeconfig.cache

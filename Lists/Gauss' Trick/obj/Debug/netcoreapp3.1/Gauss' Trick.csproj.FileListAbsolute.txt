@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.exe
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.deps.json
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.runtimeconfig.json
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.dll
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\bin\Debug\netcoreapp3.1\Gauss' Trick.pdb
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.dll
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.pdb
+C:\Users\tshte\source\repos\Lists\Gauss' Trick\obj\Debug\netcoreapp3.1\Gauss' Trick.genruntimeconfig.cache

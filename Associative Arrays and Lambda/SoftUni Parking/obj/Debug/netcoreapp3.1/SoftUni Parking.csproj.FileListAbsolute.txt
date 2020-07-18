@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.exe
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.deps.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.genruntimeconfig.cache

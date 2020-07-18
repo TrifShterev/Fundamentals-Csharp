@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.exe
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.deps.json
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.runtimeconfig.json
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.dll
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\bin\Debug\netcoreapp3.1\Reverse Array of Strings 2.pdb
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.dll
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.pdb
+C:\Users\tshte\source\repos\Arrays\Reverse Array of Strings 2\obj\Debug\netcoreapp3.1\Reverse Array of Strings 2.genruntimeconfig.cache

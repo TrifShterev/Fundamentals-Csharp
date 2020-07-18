@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.exe
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.deps.json
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.runtimeconfig.json
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.dll
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\bin\Debug\netcoreapp3.1\StudentsExercises.pdb
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.dll
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.pdb
+C:\Users\tshte\source\repos\Objects and Classes\StudentsExercises\obj\Debug\netcoreapp3.1\StudentsExercises.genruntimeconfig.cache

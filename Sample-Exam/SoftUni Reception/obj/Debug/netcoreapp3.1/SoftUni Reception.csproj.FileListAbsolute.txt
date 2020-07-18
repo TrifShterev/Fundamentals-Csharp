@@ -1,0 +1,3 @@
+C:\Users\tshte\source\repos\Sample-Exam\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\SoftUni Reception\obj\Debug\netcoreapp3.1\SoftUni Reception.AssemblyInfo.cs

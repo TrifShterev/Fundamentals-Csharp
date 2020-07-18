@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

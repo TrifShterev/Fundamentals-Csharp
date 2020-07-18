@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.exe
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.deps.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\bin\Debug\netcoreapp3.1\Odd Occurrences.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Odd Occurrences\obj\Debug\netcoreapp3.1\Odd Occurrences.genruntimeconfig.cache

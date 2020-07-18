@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.exe
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.deps.json
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.runtimeconfig.json
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.dll
+C:\Users\tshte\source\repos\Arrays\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.pdb
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.dll
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.pdb
+C:\Users\tshte\source\repos\Arrays\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.genruntimeconfig.cache

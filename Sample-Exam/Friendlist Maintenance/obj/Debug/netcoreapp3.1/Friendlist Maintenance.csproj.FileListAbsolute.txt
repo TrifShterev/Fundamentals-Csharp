@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.exe
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.dll
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\bin\Debug\netcoreapp3.1\Friendlist Maintenance.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.dll
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Friendlist Maintenance\obj\Debug\netcoreapp3.1\Friendlist Maintenance.genruntimeconfig.cache

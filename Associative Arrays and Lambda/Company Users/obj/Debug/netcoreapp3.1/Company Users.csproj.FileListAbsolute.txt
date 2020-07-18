@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.exe
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.deps.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.runtimeconfig.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\bin\Debug\netcoreapp3.1\Company Users.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Company Users\obj\Debug\netcoreapp3.1\Company Users.genruntimeconfig.cache

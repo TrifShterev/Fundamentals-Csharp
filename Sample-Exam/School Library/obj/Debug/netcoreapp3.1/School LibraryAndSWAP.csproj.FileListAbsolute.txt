@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.exe
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.dll
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School LibraryAndSWAP.pdb
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.dll
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.pdb
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School LibraryAndSWAP.genruntimeconfig.cache

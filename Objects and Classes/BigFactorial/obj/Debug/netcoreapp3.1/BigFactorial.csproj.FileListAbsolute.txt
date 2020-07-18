@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\tshte\source\repos\Objects and Classes\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache

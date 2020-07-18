@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.exe
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.deps.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.genruntimeconfig.cache

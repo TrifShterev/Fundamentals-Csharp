@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\tshte\source\repos\Objects and Classes\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\tshte\source\repos\Objects and Classes\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

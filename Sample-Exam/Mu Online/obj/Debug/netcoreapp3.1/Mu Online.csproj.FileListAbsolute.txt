@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.exe
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\bin\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.dll
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Mu Online\obj\Debug\netcoreapp3.1\Mu Online.genruntimeconfig.cache

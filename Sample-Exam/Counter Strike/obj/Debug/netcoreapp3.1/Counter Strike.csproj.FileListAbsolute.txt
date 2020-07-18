@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.exe
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.dll
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.dll
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.genruntimeconfig.cache

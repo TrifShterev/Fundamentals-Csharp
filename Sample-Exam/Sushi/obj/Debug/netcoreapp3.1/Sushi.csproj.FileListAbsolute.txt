@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.exe
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.dll
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\bin\Debug\netcoreapp3.1\Sushi.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.dll
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Sushi\obj\Debug\netcoreapp3.1\Sushi.genruntimeconfig.cache

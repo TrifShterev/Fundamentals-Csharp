@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.exe
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.deps.json
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\tshte\source\repos\Methods\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.genruntimeconfig.cache

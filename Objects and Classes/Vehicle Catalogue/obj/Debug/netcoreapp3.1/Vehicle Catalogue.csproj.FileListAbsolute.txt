@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\tshte\source\repos\Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache

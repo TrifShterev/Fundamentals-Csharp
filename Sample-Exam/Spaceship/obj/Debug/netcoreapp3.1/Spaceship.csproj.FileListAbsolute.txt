@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.exe
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.genruntimeconfig.cache

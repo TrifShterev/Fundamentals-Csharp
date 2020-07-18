@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.exe
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.deps.json
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.runtimeconfig.json
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.dll
+C:\Users\tshte\source\repos\Arrays\Common Elements\bin\Debug\netcoreapp3.1\Common Elements.pdb
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.dll
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.pdb
+C:\Users\tshte\source\repos\Arrays\Common Elements\obj\Debug\netcoreapp3.1\Common Elements.genruntimeconfig.cache

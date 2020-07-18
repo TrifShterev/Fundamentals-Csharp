@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.exe
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.deps.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.dll
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\bin\Debug\netcoreapp3.1\Age.pdb
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.dll
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.pdb
+C:\Users\tshte\source\repos\Fundamentals-Basic Syntax, Conditional Statements and Loops - Exercise\Age\obj\Debug\netcoreapp3.1\Age.genruntimeconfig.cache

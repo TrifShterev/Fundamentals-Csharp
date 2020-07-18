@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.exe
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.dll
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\bin\Debug\netcoreapp3.1\Shoping List.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.dll
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Shoping List\obj\Debug\netcoreapp3.1\Shoping List.genruntimeconfig.cache

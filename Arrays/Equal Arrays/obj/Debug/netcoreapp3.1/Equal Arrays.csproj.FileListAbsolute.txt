@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.exe
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.deps.json
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.runtimeconfig.json
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.dll
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.pdb
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.dll
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.pdb
+C:\Users\tshte\source\repos\Arrays\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.genruntimeconfig.cache

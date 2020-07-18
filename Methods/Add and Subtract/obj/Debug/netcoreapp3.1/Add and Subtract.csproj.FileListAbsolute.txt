@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.exe
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.deps.json
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.json
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\tshte\source\repos\Methods\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\tshte\source\repos\Methods\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.genruntimeconfig.cache

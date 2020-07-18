@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.exe
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.dll
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.dll
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.genruntimeconfig.cache

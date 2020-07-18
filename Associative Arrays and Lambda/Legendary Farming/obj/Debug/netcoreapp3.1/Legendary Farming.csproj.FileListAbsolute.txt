@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.exe
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.deps.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Users\tshte\source\repos\Associative Arrays and Lambda\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.genruntimeconfig.cache

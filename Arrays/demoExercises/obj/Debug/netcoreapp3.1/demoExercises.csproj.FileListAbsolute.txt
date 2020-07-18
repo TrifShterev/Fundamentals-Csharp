@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.exe
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.deps.json
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.runtimeconfig.json
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.dll
+C:\Users\tshte\source\repos\Arrays\demoExercises\bin\Debug\netcoreapp3.1\demoExercises.pdb
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.dll
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.pdb
+C:\Users\tshte\source\repos\Arrays\demoExercises\obj\Debug\netcoreapp3.1\demoExercises.genruntimeconfig.cache

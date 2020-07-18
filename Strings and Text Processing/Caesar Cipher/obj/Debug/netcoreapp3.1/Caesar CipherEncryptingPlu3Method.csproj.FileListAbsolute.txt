@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.exe
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.deps.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.runtimeconfig.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.dll
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.pdb
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.dll
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.pdb
+C:\Users\tshte\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar CipherEncryptingPlu3Method.genruntimeconfig.cache

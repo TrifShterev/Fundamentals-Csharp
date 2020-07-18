@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.exe
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.dll
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.pdb
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.dll
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.pdb
+C:\Users\tshte\source\repos\Sample-Exam\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.genruntimeconfig.cache

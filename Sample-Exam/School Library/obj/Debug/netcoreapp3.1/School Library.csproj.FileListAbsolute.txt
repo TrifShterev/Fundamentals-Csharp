@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.exe
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.dll
+C:\Users\tshte\source\repos\Sample-Exam\School Library\bin\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.dll
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\tshte\source\repos\Sample-Exam\School Library\obj\Debug\netcoreapp3.1\School Library.genruntimeconfig.cache

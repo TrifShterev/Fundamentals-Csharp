@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.exe
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.deps.json
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.runtimeconfig.json
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.dll
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Integer operations.pdb
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.dll
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.pdb
+C:\Users\tshte\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Integer operations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache
+C:\Users\tshte\source\repos\Sample-Exam\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csprojAssemblyReference.cache

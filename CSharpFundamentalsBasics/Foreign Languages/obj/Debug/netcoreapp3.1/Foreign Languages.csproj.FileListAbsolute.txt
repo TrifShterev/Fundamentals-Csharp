@@ -1,0 +1,12 @@
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.exe
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.deps.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfo.cs
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\tshte\source\repos\CSharpFundamentalsBasics\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.genruntimeconfig.cache

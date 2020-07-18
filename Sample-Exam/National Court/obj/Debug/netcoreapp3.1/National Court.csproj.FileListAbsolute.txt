@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.exe
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.deps.json
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.json
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.dll
+C:\Users\tshte\source\repos\Sample-Exam\National Court\bin\Debug\netcoreapp3.1\National Court.pdb
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfo.cs
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.dll
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.pdb
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.genruntimeconfig.cache
+C:\Users\tshte\source\repos\Sample-Exam\National Court\obj\Debug\netcoreapp3.1\National Court.csprojAssemblyReference.cache

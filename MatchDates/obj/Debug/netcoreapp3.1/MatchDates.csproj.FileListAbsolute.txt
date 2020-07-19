@@ -1,0 +1,13 @@
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.exe
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.deps.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.dev.json
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csprojAssemblyReference.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfoInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfo.cs
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.dll
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.pdb
+C:\Users\tshte\source\repos\TrifShterev\Fundamentals-Csharp\RegexBasics\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.genruntimeconfig.cache
